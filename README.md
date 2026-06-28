@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0085-maximal-rectangle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/spm407/LEETCODE-QUESTION/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/spm407/LEETCODE-QUESTION/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/spm407/LEETCODE-QUESTION/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
