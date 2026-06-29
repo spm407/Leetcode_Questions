@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0035-search-insert-position) |
 | [0085-maximal-rectangle](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
@@ -90,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
