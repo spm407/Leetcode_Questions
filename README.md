@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0035-search-insert-position) |
 | [0085-maximal-rectangle](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0085-maximal-rectangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0704-binary-search) |
