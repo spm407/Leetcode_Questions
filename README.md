@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
+| [0540-single-element-in-a-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0704-binary-search) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
