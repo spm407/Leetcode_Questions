@@ -1,28 +1,32 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int ta) {
-       
+    int search(vector<int>& n, int t) {
         int l=0;
-        int r=nums.size()-1;
+        int r=n.size()-1;
         while(l<=r){
             int m=(l+r)/2;
-            if(nums[m]==ta)return m;
-            if(nums[l]<nums[m]){
-                if(ta<nums[m]&&ta>=nums[l]){
+            if(n[m]==t){
+                return m;
+            }
+            else if(n[l]<=n[m]){
+                if(n[l]<=t&&t<=n[m]){
                     r=m-1;
+
                 }
                 else{
                     l=m+1;
                 }
             }
             else{
-                if(nums[l]==ta)return l;
+                if(n[m]<=t&&t<=n[r]){
+                    l=m+1;
+
+                }
                 else{
-                    l=l+1;
+                    r=m-1;
                 }
             }
         }
         return -1;
-
     }
-}; 
+};
