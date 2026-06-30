@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0704-binary-search) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0240-search-a-2d-matrix-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/spm407/LEETCODE-QUESTION/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/spm407/LEETCODE-QUESTION/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0704-binary-search) |
 ## Sliding Window
