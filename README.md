@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/spm407/LEETCODE-QUESTION/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/spm407/LEETCODE-QUESTION/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/spm407/LEETCODE-QUESTION/tree/master/0704-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/spm407/LEETCODE-QUESTION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
